@@ -6,7 +6,7 @@ int main() {
 	int square_area = 1;
 	
     //Write the prompt
-    puts("Enter the side of a square");
+    puts("Enter the side of a square")
 
 
 	//Get the input
