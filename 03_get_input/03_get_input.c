@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 int main() {
-	int square_side = 1;
+	int square_side = 0;
 	int square_perimeter = 4;
 	int square_area = 1;
 	
     //Write the prompt
-    puts("Enter the side of a square")
+    puts("Enter the side of a square");
 
 
 	//Get the input
