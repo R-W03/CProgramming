@@ -43,8 +43,6 @@ int main(void) {
     //Function Call
     //printArray(arr, SIZE);
 
-
-
     //Reinitialize with random numbers from -20 to 20
     for(int i = 0; i < SIZE; i++) {
         arr[i] = rand() % (20 - (-20) + 1) + (-20);
@@ -79,3 +77,14 @@ void initWithRandom(int *arr, int size, int left, int right) {
     }
 
 }
+
+
+    //#define SIZE 11
+    //int c[5] = {-45, 6, 0, 72, 1543};
+    //int sum = c[0] + c [2];
+    //printf("%d", sum);
+
+    //double d_arr [SIZE] = {0.0}; 
+    //d_arr[5] = 4.53;
+    //printf("%.2f %.2f", d_arr[1], d_arr[SIZE-1]);
+    
