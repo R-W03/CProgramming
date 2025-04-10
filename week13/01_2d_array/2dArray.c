@@ -28,6 +28,30 @@ int main(int argc, char*argv[]) {
         {7,8,9}
     };
 
+    /*
+
+    double arr[ROW] [COL] = {
+        {1, 2, 3, 4, 5},
+        {6, 7, 8, 9, 10},
+        {11, 12, 13, 14, 15},
+        {16, 17, 18, 19, 20},
+        {21, 22, 23, 24, 25}
+    };
+    
+    double arr 
+    
+
+
+    */
+
+
+
+
+
+
+
+
+
     //Access an Element
     printf("%d\n", arr[1] [1]);
 
